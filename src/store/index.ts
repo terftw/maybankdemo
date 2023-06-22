@@ -1,8 +1,8 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { useDispatch } from "react-redux";
-import placesSlice from "./reducers/places";
-import mapConfigSlice from "./reducers/mapConfig";
-import errorSlice from "./reducers/error";
+import placesSlice from "../reducers/places";
+import mapConfigSlice from "../reducers/mapConfig";
+import errorSlice from "../reducers/error";
 
 export const store = configureStore({
   reducer: {

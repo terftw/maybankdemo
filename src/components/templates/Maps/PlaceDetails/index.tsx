@@ -5,7 +5,7 @@ import ReviewCard from "./ReviewCard";
 import NameAndRating from "./NameAndRating";
 import PlaceDetailsInfo from "./PlaceDetailsInfo";
 
-const { Title, Text } = Typography;
+const { Title } = Typography;
 
 type Props = {
   drawerConfigurations: {
