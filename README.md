@@ -3,6 +3,11 @@
 An attempt to address the requirements posted in this pdf.
 [See Requirements](https://drive.google.com/file/d/1IHSvdmg4vjMNcpm_Uu86Rp4MX2ZOmx9u/view?usp=sharing)
 
+## Available Features
+- Users can search for places using the autocomplete field
+- Users are able to select previously viewed places in the autocomplete options
+- Users are able to see details about the place that they searched for
+
 ## Frameworks that are used
 
 - React (Redux Toolkit, Hooks)
@@ -12,10 +17,9 @@ An attempt to address the requirements posted in this pdf.
 
 &nbsp;
 
-The demo can be found [here](https://mighty-beyond-62116.herokuapp.com/)
+The demo can be found [here](https://terence-google-maps-demo.netlify.app/)
 \
 &nbsp;
-\
 \
 I hereby declare that this assessment is done solely by me
 
