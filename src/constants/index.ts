@@ -17,8 +17,8 @@ type GetPlaceDetailsResult = Omit<google.maps.places.PlaceResult, "photos"> & {
 type Nullable<T> = undefined | null | T;
 
 const initialMapCenter = {
-  lat: 1.348846,
-  lng: 103.9485511,
+  lat: 1.2857866,
+  lng: 103.8500235,
 };
 
 const googlePlacesStorageKey = "googlePlaces" as const;
